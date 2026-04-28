@@ -47,7 +47,8 @@ Optimizing resource allocation
 Improving patient experience
 ## Hospital Dashboard Project
 
-![Dashboard](https://github.com/user-attachments/assets/26c00836-829b-43d6-88da-49abed23152f)
+<img width="873" height="419" alt="image" src="https://github.com/user-attachments/assets/8920a5fa-3480-4107-9031-e6792a2b8c37" />
+
 
 📂 Files Included
 hospital.pbix
